@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+nav{
+    background: #d8d8d8;
+    height: 120px;
+}
+p{
+    box-sizing: border-box;
+    padding: 50px;
+    background: white;
+    height: 300px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.blue{
+height: 150px;
+background: #4990e2;
+}
+.aqua{
+    height: 150px;
+    background: #4FE3C1;
+}
+.lime{
+    height: 150px;
+    background: #B9E888;
+}
+
+.yellow{
+    height: 150px;
+    background: #F8E71E;
+}
+.smallblue{
+  float: left;
+  position: relative;
+  margin: 10px 15px 15px 10px;
+    height: 10vw;
+    width: 10vw;
+background: #4990e2;
+}
